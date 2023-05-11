@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **SwiftUI**
 
-- 💬 Ask me about **swift, ios**
+- 💬 Ask me about **swift, iOS**
 
 - 📫 How to reach me **ahsankuet58@gmail.com**
 
